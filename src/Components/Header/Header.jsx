@@ -3,7 +3,7 @@ import {MdOutlineMarkEmailUnread} from 'react-icons/md'
 const Header = () => {
   return (
     <div className='bg-[#282828] py-4 border-b-4 border-[#FFB800]'>
-        <div className='max-w-container mx-auto text-white px-[10px] md:px-0'>
+        <div className='max-w-container mx-auto px-[10px] md:px-0'>
             <div className='md:flex'>
                 <div className='md:w-3/4 md:flex gap-x-[54px]'>
                 <div className='flex items-center gap-x-[5px] relative after:hidden Md:after:block after:content[""] after:absolute after:top-[5px] after:right-[-27px] after:bg-[#5C6A92] after:h-4 after:w-0.5'>
